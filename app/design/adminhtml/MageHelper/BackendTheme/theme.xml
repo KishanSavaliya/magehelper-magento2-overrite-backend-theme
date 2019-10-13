@@ -1,0 +1,12 @@
+<!--
+/**
+ * MageHelper Override Magento 2 Backend theme
+ *
+ * @package      MageHelper_BackendTheme
+ * @author       Kishan Savaliya <kishansavaliyakb@gmail.com>
+ */
+-->
+<theme xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Config/etc/theme.xsd">
+    <title>Magento 2 Backend</title>
+    <parent>Magento/backend</parent>
+</theme>
